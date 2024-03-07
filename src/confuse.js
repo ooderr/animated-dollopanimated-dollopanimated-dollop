@@ -12,7 +12,7 @@ export const Confuse = ()=>{
         setD(true)
         setTimeout(() => {
             setD(false);
-        }, 2500);
+        }, 4600);
     }, []);
 
     const swap = createPortal(<> <App /> </>, document.querySelector('.os_webkit_moz_ms_fox'));

@@ -14,7 +14,7 @@ export const InitSpin = ()=>{
             fontSize:'15.6px', 
             wordSpacing:'1px',
             letterSpacing:'1px'
-            }}>Initialising...</p>
+            }}>Please wait...</p>
 
         </div>
 
