@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url(./media/pixx/hello.png); */
+  background-repeat: no-repeat !important;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  background-position: top bottom;
+  overflow: hidden !important;
 }
 
 code {
